@@ -6,6 +6,6 @@ I build software for the moments when a system has to give someone a clear answe
 
 - [Big Brother Events](https://bigbrotherticketing.com) connects M-Pesa checkout, digital tickets and gate scanning. Our platform handled 3,000+ ticket sales in under three hours at one match.
 - [Saccofiti](https://saccofiti.co.ke) helps Kenyan SACCO members understand financial statements and find share transfer listings.
-- [MOFA FC](https://mofa.co.ke) brings fixtures, merchandise and ticketing together for supporters.
+- [Migori Youth FC](https://migoriyouth.com/) brings match reports, fixtures, standings and player profiles together for supporters following the club.
 
-[Portfolio](https://ianmuyumba.com) · [LinkedIn](https://www.linkedin.com/in/ianmuyumba/) · [X](https://x.com/ianmuyumba)
+[Portfolio](https://ianmuyumba.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ianmuyumba/) · [X](https://x.com/ianmuyumba)
